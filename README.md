@@ -2,12 +2,13 @@
 
 ![descr](https://wallpapercave.com/wp/wp4923991.png)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=andres0818)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andres0818&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andres0818&layout=compact)
 
-![trophy](https://github-profile-trophy.vercel.app/?username=andres0818)
+
 
 <!--
 **andres0818/andres0818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
