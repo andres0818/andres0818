@@ -5,7 +5,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andres0818&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andres0818&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andres0818&layout=compact)
 
 
 <!--
