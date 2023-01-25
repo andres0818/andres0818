@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![descr]https://wallpapercave.com/wp/wp4923991.png
+![descr](https://wallpapercave.com/wp/wp4923991.png)
 
 <!--
 **andres0818/andres0818** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
