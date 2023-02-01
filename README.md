@@ -3,9 +3,8 @@
 ![descr](https://wallpapercave.com/wp/wp4923991.png)
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=andres0818)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andres0818&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andres0818&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
@@ -20,7 +19,15 @@
 <details open>
  <summary><img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&color=aquamarine&width=500&lines=This+is+my+GitHub+stats"> </summary>  
 <br>
- 
+<p align = "center">
+
+ ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andres0818&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</p>
+</details>
+
+#### Thanks for visiting :heart:
 
 
 <!--
