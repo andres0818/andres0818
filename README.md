@@ -14,7 +14,7 @@
 
 ### 💼 Sobre mí
 
-Desarrollador Full Stack con **+3 años** entregando software empresarial de punta a punta. Mi base es el ecosistema **.NET (C#, Razor, APIs REST)** y **SQL**, que combino con **React.js** y **React Native** para construir producto completo — backend, web y app móvil — sin depender de otros equipos.
+Desarrollador Full Stack con **+3 años** entregando software empresarial de punta a punta. Mi base es el ecosistema **.NET (C#, Razor, APIs REST)** y **SQL**, que combino con **React.js** y **React Native** para cubrir el ciclo completo de producto — backend, web y app móvil. Me adapto igual de bien a equipos de desarrollo grandes o chicos que a sacar un proyecto adelante de forma autónoma cuando la situación lo requiere.
 
 - 🔭 Actualmente en **Q10 S.A.S.**, desarrollando plataforma y app móvil full stack (.NET Core, React, React Native)
 - 📈 Resultados medibles en producción: performance de **60% → 85%** y **SEO 99%** en q10.com, automatización de procesos con Power BI y Google Apps Script
@@ -50,18 +50,6 @@ Desarrollador Full Stack con **+3 años** entregando software empresarial de pun
 | **[📚 EduLend Inventory](https://github.com/andres0818/Proyecto_web_II)** | React · FastAPI · Pandas · PostgreSQL · Prisma | Gestión de préstamos de inventario escolar, con CI/CD por GitHub Actions |
 | **[🏖️ Ancestral Beach Club](https://github.com/andres0818/landingAncestral)** | React · TypeScript · Framer Motion · EmailJS | Landing page con flujo de reservas para beach club en Cartagena. [Demo en vivo](https://andres0818.github.io/ancestral/) |
 | **[🗺️ Travels Antioquia](https://github.com/andres0818/travelsAntioquia)** | React · TypeScript · Supabase · D3-geo | Mapa interactivo de municipios de Antioquia con buscador. [Demo en vivo](https://andres0818.github.io/travelsAntioquia/) |
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andres0818&show_icons=true&theme=radical" alt="Andrés's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andres0818&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=andres0818&theme=radical&no-frame=true&row=1" alt="GitHub Trophies" />
-</p>
 
 ---
 
