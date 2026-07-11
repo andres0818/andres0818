@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/andrés-pérez0818"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://github.com/andres0818"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white"></a>
+  <a href="https://andres0818.github.io/"><img src="https://img.shields.io/badge/-Portafolio-05FF00?style=flat&logo=githubpages&logoColor=black"></a>
 </p>
 
 ---
