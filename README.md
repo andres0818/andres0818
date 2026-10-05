@@ -8,6 +8,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/andrés-pérez0818"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="https://andres0818.github.io/"><img src="https://img.shields.io/badge/-Portafolio-05FF00?style=flat&logo=githubpages&logoColor=black"></a>
+  <a href="https://soluoficial.com"><img src="https://img.shields.io/badge/-Soluciones_a_la_medida-09090B?style=flat&logoColor=white"></a>
 </p>
 
 ---
@@ -46,6 +47,7 @@ Desarrollador Full Stack con **+3 años** entregando software empresarial de pun
 
 | Proyecto | Stack | Descripción |
 |---|---|---|
+| **[🧩 Soluciones a la medida](https://soluoficial.com)** | Next.js · TypeScript · Material UI · Cloudflare Pages | Empresa de software a la medida para negocios: pedidos por QR, reservas en línea, inventario, caja y reportes. [Sitio web](https://soluoficial.com) |
 | 🔒 **Sistema de Facturación e Inventario — Óptica** *(proyecto vendido a cliente, código y datos privados)* | ASP.NET Core · EF Core · SignalR · React · TypeScript · Docker | Sistema completo de facturación e inventario para un cliente del sector óptico — auth JWT, control de inventario y seguimiento de órdenes de laboratorio. Capturas con datos de prueba próximamente. |
 | **[📚 EduLend Inventory](https://github.com/andres0818/Proyecto_web_II)** | React · FastAPI · Pandas · PostgreSQL · Prisma | Gestión de préstamos de inventario escolar, con CI/CD por GitHub Actions |
 | **[🏖️ Ancestral Beach Club](https://github.com/andres0818/landingAncestral)** | React · TypeScript · Framer Motion · EmailJS | Landing page con flujo de reservas para beach club en Cartagena. [Demo en vivo](https://andres0818.github.io/ancestral/) |
