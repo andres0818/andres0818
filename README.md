@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! Soy Andrés Pérez 👋</h1>
-<h3 align="center">Desarrollador Full Stack · .NET & C# · React / React Native</h3>
+<h3 align="center">Ingeniero Full Stack · .NET & C# · React / Next.js · Azure</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+.NET+%26+C%23;React+%2F+React+Native+%7C+SQL+%2F+PostgreSQL;%2B3+a%C3%B1os+entregando+software+empresarial" alt="Typing SVG" />
@@ -15,9 +15,10 @@
 
 ### 💼 Sobre mí
 
-Desarrollador Full Stack con **+3 años** entregando software empresarial de punta a punta. Mi base es el ecosistema **.NET (C#, Razor, APIs REST)** y **SQL**, que combino con **React.js** y **React Native** para cubrir el ciclo completo de producto — backend, web y app móvil. Me adapto igual de bien a equipos de desarrollo grandes o chicos que a sacar un proyecto adelante de forma autónoma cuando la situación lo requiere.
+Ingeniero Full Stack con **+3 años** entregando software empresarial de punta a punta. Mi base es el ecosistema **.NET (C#, Razor, APIs REST)** y **SQL**, que combino con **React.js** y **React Native** para cubrir el ciclo completo de producto — backend, web y app móvil. Me adapto igual de bien a equipos de desarrollo grandes o chicos que a sacar un proyecto adelante de forma autónoma cuando la situación lo requiere.
 
-- 🔭 Actualmente en **Q10 S.A.S.**, desarrollando plataforma y app móvil full stack (.NET Core, React, React Native)
+- 🔭 Actualmente en **Tata Consultancy Services (TCS)**: APIs en C# / .NET, interfaces en React y Next.js, diseño en Figma, equipo Scrum sobre Azure
+- 🏫 Antes en **Q10 S.A.S.** (2024 – 2026), plataforma educativa y app móvil full stack (.NET Core, React, React Native)
 - 📈 Resultados medibles en producción: performance de **60% → 85%** y **SEO 99%** en q10.com, automatización de procesos con Power BI y Google Apps Script
 - 🤖 Programo de forma tradicional y asistida por IA generativa (**Claude CLI**, **Gemini CLI**)
 - 🌱 Técnico en Desarrollo de Software — CESDE (2026)
@@ -48,7 +49,7 @@ Desarrollador Full Stack con **+3 años** entregando software empresarial de pun
 | Proyecto | Stack | Descripción |
 |---|---|---|
 | **[🧩 Soluciones a la medida](https://soluoficial.com)** | Next.js · TypeScript · Material UI · Cloudflare Pages | Empresa de software a la medida para negocios: pedidos por QR, reservas en línea, inventario, caja y reportes. [Sitio web](https://soluoficial.com) |
-| 🔒 **Sistema de Facturación e Inventario — Óptica** *(proyecto vendido a cliente, código y datos privados)* | ASP.NET Core · EF Core · SignalR · React · TypeScript · Docker | Sistema completo de facturación e inventario para un cliente del sector óptico — auth JWT, control de inventario y seguimiento de órdenes de laboratorio. Capturas con datos de prueba próximamente. |
+| 🔒 **Sistema de ventas e inventario — Óptica** *(proyecto vendido a cliente, código y datos privados)* | ASP.NET Core · EF Core · SignalR · React · TypeScript · Docker | Ventas con abonos y recibo, inventario y seguimiento de órdenes de laboratorio para un cliente del sector óptico, con usuarios y permisos. Caso completo en el [portafolio](https://andres0818.github.io/#proyectos). |
 | **[📚 EduLend Inventory](https://github.com/andres0818/Proyecto_web_II)** | React · FastAPI · Pandas · PostgreSQL · Prisma | Gestión de préstamos de inventario escolar, con CI/CD por GitHub Actions |
 | **[🏖️ Ancestral Beach Club](https://github.com/andres0818/landingAncestral)** | React · TypeScript · Framer Motion · EmailJS | Landing page con flujo de reservas para beach club en Cartagena. [Demo en vivo](https://andres0818.github.io/ancestral/) |
 | **[🗺️ Travels Antioquia](https://github.com/andres0818/travelsAntioquia)** | React · TypeScript · Supabase · D3-geo | Mapa interactivo de municipios de Antioquia con buscador. [Demo en vivo](https://andres0818.github.io/travelsAntioquia/) |
