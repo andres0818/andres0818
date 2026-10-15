@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! Soy Andrés Pérez 👋</h1>
-<h3 align="center">Ingeniero Full Stack · .NET & C# · React / Next.js · Azure</h3>
+<h3 align="center">Desarrollador Full Stack · .NET & C# · React / Next.js · Azure</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=2EA3F7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%7C+.NET+%26+C%23;React+%2F+React+Native+%7C+SQL+%2F+PostgreSQL;%2B3+a%C3%B1os+entregando+software+empresarial" alt="Typing SVG" />
@@ -15,7 +15,7 @@
 
 ### 💼 Sobre mí
 
-Ingeniero Full Stack con **+3 años** entregando software empresarial de punta a punta. Mi base es el ecosistema **.NET (C#, Razor, APIs REST)** y **SQL**, que combino con **React.js** y **React Native** para cubrir el ciclo completo de producto — backend, web y app móvil. Me adapto igual de bien a equipos de desarrollo grandes o chicos que a sacar un proyecto adelante de forma autónoma cuando la situación lo requiere.
+Desarrollador Full Stack con **+3 años** entregando software empresarial de punta a punta. Mi base es el ecosistema **.NET (C#, Razor, APIs REST)** y **SQL**, que combino con **React.js** y **React Native** para cubrir el ciclo completo de producto — backend, web y app móvil. Me adapto igual de bien a equipos de desarrollo grandes o chicos que a sacar un proyecto adelante de forma autónoma cuando la situación lo requiere.
 
 - 🔭 Actualmente en **Tata Consultancy Services (TCS)**: APIs en C# / .NET, interfaces en React y Next.js, diseño en Figma, equipo Scrum sobre Azure
 - 🏫 Antes en **Q10 S.A.S.** (2024 – 2026), plataforma educativa y app móvil full stack (.NET Core, React, React Native)
